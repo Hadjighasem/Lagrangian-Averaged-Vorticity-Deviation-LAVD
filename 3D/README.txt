@@ -1,8 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Computing the Lagrangian-Averaged Vorticity Deviation (LAVD) in 3D %
-%						                                            %	
+%						                                                  %	
 %                  Alireza Hadjighasem (ETH Zurich)                 %                               
-%     						                                        %
+%     						                                            %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 License
