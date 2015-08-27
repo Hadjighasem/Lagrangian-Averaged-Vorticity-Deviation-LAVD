@@ -2,7 +2,7 @@
 # Computing the Lagrangian-Averaged Vorticity Deviation (LAVD) in 3D
 # Alireza Hadjighasem (ETH Zurich) 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 License
 This software is made public for research use only. It may be modified and redistributed under the terms of the GNU General Public License. 
