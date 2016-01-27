@@ -34,7 +34,7 @@ imagesc(x,y,VMatrix);
 axis equal tight;
 set(gca,'ydir','normal')
 %% Coherent Lagrangian vortex boundaries and vortex centers for 2D flows:
-Nct = 10;                                  % Number of contour levels intended to extract
+Nct = 50;                                  % Number of contour levels intended to extract
 MinLength = 1.1;                           % minimal arc-length threshold
 DeficiencyThresh = 0.5;                    % convexity deficiency threshold (%)
 bnd = ContourExtraction(VMatrix,xi,yi,Nct,MinLength,DeficiencyThresh);
